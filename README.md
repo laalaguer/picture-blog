@@ -3,6 +3,7 @@ A Picture Blog Theme Based on Start Bootstrap - Clean Blog
 
 ##
 [Picture Blog Demo](https://picture-blog-demo.appspot.com/index.html)
+![Demo Picture](2.pic_hd.jpg)
 ## What is this
 A HTML5 personal blog template, has pictures display on the front page.
 
