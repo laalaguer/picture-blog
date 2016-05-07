@@ -1,9 +1,13 @@
 # picture-blog
 A Picture Blog Theme Based on Start Bootstrap - Clean Blog
 
-##
-[Picture Blog Demo](https://picture-blog-demo.appspot.com/index.html)
+## Demo
+[Live Demo](http://simple-personal-blog.appspot.com/)
 ![Demo Picture](2.pic_hd.jpg)
+
+Actually the 'live' version requires a little js and python to back as CMS system to manage the blog.
+If you are interested, this is the source code.
+[source code](https://github.com/laalaguer/simple-personal-blog)
 ## What is this
 A HTML5 personal blog template, has pictures display on the front page.
 
