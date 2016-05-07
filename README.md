@@ -3,7 +3,7 @@ A Picture Blog Theme Based on Start Bootstrap - Clean Blog
 
 ## Demo
 [Live Demo](http://simple-personal-blog.appspot.com/)
-![Demo Picture](2.pic_hd.jpg)
+![Demo Picture](demopic.jpg)
 
 Actually the 'live' version requires a little js and python to back as CMS system to manage the blog.
 If you are interested, this is the source code.
